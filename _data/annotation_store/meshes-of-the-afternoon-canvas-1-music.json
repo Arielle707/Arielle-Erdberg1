@@ -1,0 +1,256 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://Arielle707.github.io/Arielle-Erdberg1/annotations/meshes-of-the-afternoon-canvas-1-music.json",
+  "type": "AnnotationPage",
+  "label": "Music",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "meshes-of-the-afternoon-canvas-1-music-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The film opens with a solo guitar strumming one note at a time. Every note is able to exist within its own moment and not in a chord.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Arielle707.github.io/Arielle-Erdberg1/meshes-of-the-afternoon/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Arielle707.github.io/Arielle-Erdberg1/meshes-of-the-afternoon/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "0.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "meshes-of-the-afternoon-canvas-1-music-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "In the first frame of the film the music quickly shifts from the low baratone of the guitar to the high pitched almost squeeling of a flute. The fluit uses a chromatic scale giving the music an ere feel. The flute stands alone until it is quickly intrupted by a singular bang of the drumb. The drumb is played at the same time as the first jump cut of the film, emphisizing the absurdity of what we are seeing on screen.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Arielle707.github.io/Arielle-Erdberg1/meshes-of-the-afternoon/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Arielle707.github.io/Arielle-Erdberg1/meshes-of-the-afternoon/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "16.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "meshes-of-the-afternoon-canvas-1-music-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "After a breif silence the flute returns along with the guitar. The melody is the same as before, the guitar playing the same notes as in the beginning and the flute repeating its chromatic sequence. this helps establish the setting for the audience by providing a sence of famuilairity after such a jarring and thought provoking shot.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Arielle707.github.io/Arielle-Erdberg1/meshes-of-the-afternoon/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Arielle707.github.io/Arielle-Erdberg1/meshes-of-the-afternoon/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "26.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "meshes-of-the-afternoon-canvas-1-music-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "After the flute finishes its melody it remains silent for about ten seconds to let the guitar take the lead. At this point in the short film the guitar is closely assoisated with the woman, providing a sence of mistory and alluring. The flute only returns when the dark figure comes into to frame indicating that the flute is assoisated with the dark figure. The use of a flute here provides a sharp contrast with the guitar because of its brassy tone and bright sound.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Arielle707.github.io/Arielle-Erdberg1/meshes-of-the-afternoon/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Arielle707.github.io/Arielle-Erdberg1/meshes-of-the-afternoon/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "49.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "meshes-of-the-afternoon-canvas-1-music-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "It is noticable that there lacks any sort of diagetic sound in the film so far. However as the flute and the dark figure disapear a drumb replaces their absence by rythmic banging as the key is dropped. within the beginning of the short film the extradiagetic drumb has only been used in replacement of the diagetic sound. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Arielle707.github.io/Arielle-Erdberg1/meshes-of-the-afternoon/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Arielle707.github.io/Arielle-Erdberg1/meshes-of-the-afternoon/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "60.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "meshes-of-the-afternoon-canvas-1-music-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The guitars music is played slower and slower leading up to the woman setting foot into the house. As soon as her first foot crosses the threshold a cow bell or drumb is played. It is as if it is the heart beat of the house. Played in two at a time the notes give the house personality, almost as if it is alive.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Arielle707.github.io/Arielle-Erdberg1/meshes-of-the-afternoon/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Arielle707.github.io/Arielle-Erdberg1/meshes-of-the-afternoon/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "95.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "meshes-of-the-afternoon-canvas-1-music-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The heart beat continues as the woman traverses the house. Following with its steady pace not speeding up or slowing down. It only stops when the woman reaches for the record player in her room. As she silences the record player it is if she silences the house, the heart beat. A pregnant pause replaces it as the streatch of silence lasts for almost a minuet. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Arielle707.github.io/Arielle-Erdberg1/meshes-of-the-afternoon/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Arielle707.github.io/Arielle-Erdberg1/meshes-of-the-afternoon/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "147.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "meshes-of-the-afternoon-canvas-1-music-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Here the audience is almost jumpscared by an out of tune stringed instrument. It sounds almost like a hum but is quickly acompnaied by a small chamber orchastra.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Arielle707.github.io/Arielle-Erdberg1/meshes-of-the-afternoon/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Arielle707.github.io/Arielle-Erdberg1/meshes-of-the-afternoon/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "192.0"
+        }
+      }
+    }
+  ]
+}
